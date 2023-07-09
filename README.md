@@ -1,16 +1,27 @@
-# stasiun
+# UAS Pemrograman Mobile 2
 
-A new Flutter project.
+```bash
+Nama    : Rima Puji Lestari
+Nim     : 312110517
+Kelas   : TI.21.A3
+```
 
-## Getting Started
+## API Reference
 
-This project is a starting point for a Flutter application.
+https://booking.kai.id/api/stations2
 
-A few resources to get you started if this is your first Flutter project:
+## Output
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 1. Daftar Stasiun Kereta Api Indonesia
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://github.com/rimapuji/daftar-stasiun/assets/118242692/600906bb-2e7f-4bb3-a286-469d80a638f2)
+
+<hr>
+
+### 2. Kolom Search
+
+![2](https://github.com/rimapuji/daftar-stasiun/assets/118242692/bf75864c-471e-47e8-80fd-8fae6d5f6a28)
+
+<hr>
+
+### Thank You (_^.^_)
